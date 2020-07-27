@@ -12,4 +12,4 @@ There are three demo codes.
 3. GDD_demo_denoising - code of flash and no-flash image fusion.
 
 Please find the paper for more detailed information.
-If you find any bug or have any suggestion, please contact Tatsumi Uezato (RIKEN AIP/IRIT).
+If you find any bug or have any suggestion, please contact Tatsumi Uezato (RIKEN AIP).
