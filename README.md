@@ -1,2 +1,2 @@
 # guided-deep-decoder
-Code of 'Guided Deep Decoder: Unsupervised Image Pair Fusion'
+This provides code for the follwing paper: 'Guided Deep Decoder: Unsupervised Image Pair Fusion' by Tatsumi Uezato, Danfeng Hong, Naoto Yokoya and Wei He.
