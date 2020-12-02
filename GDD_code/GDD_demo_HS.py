@@ -56,13 +56,13 @@ OPT_OVER =  'net'
 show_every = 1000 #500 
 save_every = 1000
 
-num_c = 32
+num_c = 64
 LR = 0.01#try 0.01 0.001 0.0001
 
 OPTIMIZER = 'adam'
 
 num_iter = 3001#try 12000, 8000
-reg_noise_std = 0.01  # try 0 0.03 0.05 0.08
+reg_noise_std = 0.03  # try 0 0.03 0.05 0.08
 mse_history = np.zeros(num_iter)
 thresh_v = 0.00001#0.000005, 0.00001
 n_layer = 5
