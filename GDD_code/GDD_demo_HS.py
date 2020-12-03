@@ -61,7 +61,7 @@ LR = 0.01#try 0.01 0.001 0.0001
 
 OPTIMIZER = 'adam'
 
-num_iter = 3001#try 12000, 8000
+num_iter = 20001#try 15000, 10000
 reg_noise_std = 0.03  # try 0 0.03 0.05 0.08
 mse_history = np.zeros(num_iter)
 thresh_v = 0.00001#0.000005, 0.00001
